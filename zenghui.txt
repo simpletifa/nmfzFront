@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-333
-=======
-zhongguo
->>>>>>> d2db95074dddbe94c2777c4535436b22fb9b1f31
+simple
